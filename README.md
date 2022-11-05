@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mammod2&theme=radical&show_icons=true" width="450" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammod2&layout=compact&theme=radical" width="400" />
 </p>
-<p>Enthusiastic Front End Developer with 1 year of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, TypeScript, HTML/CSS. TailwindCSS, SCSS. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Front End Developer with 1 year of practical experience in Progressive Web App Development , JavaScript/ES6/ES2017, TypeScript, Vue Js, HTML/CSS. TailwindCSS, SCSS. Python, selenium </p>
 <br />
 <p>
 <h2 align="center"> Languages and Tools</h3>
